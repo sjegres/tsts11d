@@ -1,3 +1,19 @@
 body{
     background-color: #F57373;
 }
+#login-bg{
+    width: 240px;
+    height: 305px;
+    background-color: #C4C4C4;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+#login-position{
+    width: 236px;
+    margin: 0 auto;
+}
+.login{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 14pt;
+}
